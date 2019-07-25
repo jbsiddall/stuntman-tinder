@@ -1,6 +1,6 @@
 # Stuntman Tinder
 
-This project was created with create-react-bootstrap.
+Try at http://bit.ly/stuntmantinder
 
 # Run
 
