@@ -1,7 +1,5 @@
 # Stuntman Tinder
 
-Try at http://bit.ly/stuntmantinder
-
 # Run
 
 * Clone this repository
